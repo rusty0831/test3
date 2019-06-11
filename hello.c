@@ -1,1 +1,1 @@
-fdfsdfsdf
+printf("Hello world");
